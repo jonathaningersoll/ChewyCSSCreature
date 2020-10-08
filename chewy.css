@@ -1,0 +1,338 @@
+#entity {
+    background-color: darkslategray;
+    height: 530px;
+    width: 100%;
+    border-bottom: 100px solid grey;
+}
+
+#shadow {
+    height: 80px;
+    width: 400px;
+    border-radius: 50%;
+    background-color: #2a2a2a;
+    position: absolute;
+    top: 540px;
+    left: 30px;
+}
+
+#backhead {
+    height: 400px;
+    width: 300px;
+    background-color: yellowgreen;
+    border-top-left-radius: 60%;
+    border-top-right-radius: 60%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 40%;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+#furrone {
+    height: 140px;
+    width: 40px;
+    background-color: transparent;
+    border-right: 50px solid yellowgreen;
+    border-bottom-right-radius: 100%;
+    position: absolute;
+    top: 278px;
+    left: -36px;
+}
+
+#furrtwo {
+    height: 50px;
+    width: 70px;
+    background-color: transparent;
+    border-right: 50px solid yellowgreen;
+    border-bottom-right-radius: 55%;
+    position: absolute;
+    top: 350px;
+    left: -35px;
+}
+
+#furrthree {
+    height: 100px;
+    width: 20px;
+    background-color: transparent;
+    border-left: 30px solid yellowgreen;
+    border-bottom-left-radius: 100%;
+    position: absolute;
+    top: 340px;
+    left: 66px;
+    transform: rotate(38deg);
+}
+
+#furrfour {
+    height: 100px;
+    width: 20px;
+    background-color: transparent;
+    border-right: 30px solid yellowgreen;
+    border-bottom-right-radius: 100%;
+    position: absolute;
+    top: 370px;
+    left: 74px;
+}
+
+#furrfive {
+    height: 130px;
+    width: 20px;
+    background-color: transparent;
+    border-right: 50px solid yellowgreen;
+    border-bottom-right-radius: 100%;
+    position: absolute;
+    top: 360px;
+    left: 96px;
+}
+
+#furrsix {
+    height: 100px;
+    width: 40px;
+    background-color: transparent;
+    border-right: 50px solid yellowgreen;
+    border-bottom-right-radius: 100%;
+    position: absolute;
+    top: 370px;
+    left: 100px;
+    transform: rotate(-40deg);
+}
+
+#furrseven {
+    height: 80px;
+    width: 40px;
+    background-color: transparent;
+    border-right: 40px solid yellowgreen;
+    border-bottom-right-radius: 100%;
+    position: absolute;
+    top: 360px;
+    left: 130px;
+    transform: rotate(-40deg);
+}
+
+#furreight {
+    height: 120px;
+    width: 20px;
+    background-color: transparent;
+    border-right: 60px solid yellowgreen;
+    border-bottom-right-radius: 100%;
+    position: absolute;
+    top: 340px;
+    left: 160px;
+    transform: rotate(-30deg);
+}
+#furrnine {
+    height: 120px;
+    width: 20px;
+    background-color: transparent;
+    border-left: 60px solid yellowgreen;
+    border-bottom-left-radius: 100%;
+    position: absolute;
+    top: 310px;
+    left: 240px;
+    transform: rotate(-10deg);
+}
+
+#furrten {
+    height: 120px;
+    width: 20px;
+    background-color: transparent;
+    border-right: 60px solid yellowgreen;
+    border-bottom-right-radius: 100%;
+    position: absolute;
+    top: 310px;
+    left: 180px;
+    transform: rotate(-55deg);
+}
+
+#fronthead {
+    height: 274px;
+    width: 235px;
+    border-radius: 100%;
+    background-color: peru;
+    position: absolute;
+    top: 30px;
+    left: 15%;
+}
+
+#mouth {
+    height: 50px;
+    width: 100px;
+    background-color: olivedrab;
+    position: absolute;
+    top: 170px;
+    left: 70px;
+    border-top-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 60%;
+    border-bottom-left-radius: 60%;
+}
+
+#righttooth {
+    height: 15px;
+    width: 20px;
+    background-color: transparent;
+    border-right: 10px solid white;
+    border-bottom-right-radius: 80%;
+    position: absolute;
+    top: 220px;
+    left: 130px;
+    transform: rotate(-15deg);
+}
+
+#lefttooth {
+    height: 15px;
+    width: 20px;
+    background-color: transparent;
+    border-left: 10px solid white;
+    border-bottom-left-radius: 80%;
+    position: absolute;
+    top: 220px;
+    left: 88px;
+    transform: rotate(15deg);
+}
+
+#bottomlefttooth {
+    height: 15px;
+    width: 20px;
+    background-color: transparent;
+    border-left: 10px solid green;
+    border-bottom-left-radius: 80%;
+    position: absolute;
+    top: 220px;
+    left: 88px;
+    transform: rotate(15deg);
+}
+
+#bottomlefttooth {
+    height: 15px;
+    width: 5px;
+    background-color: transparent;
+    border-left: 10px solid white;
+    border-bottom-left-radius: 90%;
+    position: absolute;
+    top: 208px;
+    left: 94px;
+    transform: rotate(180deg);
+}
+
+#bottomrighttooth {
+    height: 15px;
+    width: 5px;
+    background-color: transparent;
+    border-right: 10px solid white;
+    border-bottom-right-radius: 80%;
+    position: absolute;
+    top: 208px;
+    left: 138px;
+    transform: rotate(180deg);
+}
+
+#maw {
+    height: 20px;
+    width: 70px;
+    background-color: black;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    position: absolute;
+    top: 206px;
+    left: 88px
+}
+
+#eye {
+    height: 60px;
+    width: 60px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 80px;
+    left: 90px;
+}
+
+#iris {
+    height: 30px;
+    width: 30px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: springgreen;
+    position: absolute;
+    top: 20px;
+    left: 15px;
+}
+
+#pupil {
+    height: 18px;
+    width: 18px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: black;
+    position: absolute;
+    top: 6px;
+    left: 6px;
+}
+
+#glare {
+    height: 6px;
+    width: 6px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 4px;
+    left: 22px;
+}
+
+#upperlid {
+    width: 100px;
+    height: 80px;
+    border-top-left-radius: 90%;
+    border-top-right-radius: 90%;
+    border-left: 8px solid olive;
+    border-bottom-left-radius: 90%;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 80px;
+    left: 67px;
+}
+
+#lowerlid {
+    width: 80px;
+    height: 80px;
+    border-top-left-radius: 90%;
+    border-top-right-radius: 90%;
+    border-left: 8px solid olive;
+    border-bottom-left-radius: 90%;
+    transform: rotate(270deg);
+    position: absolute;
+    top: 76px;
+    left: 77px;
+}
+
+#lnostril {
+    height: 16px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    top: 180px;
+    left: 140px;
+    transform: rotate(-20deg);
+}
+
+#rnostril {
+    height: 16px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    top: 180px;
+    left: 100px;
+    transform: rotate(20deg);
+}
